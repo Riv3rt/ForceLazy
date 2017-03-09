@@ -1,0 +1,13 @@
+Ben Reuling's Project:
+
+	My first project is going to be creating a python program that will manipulate data from an excel file that I download from subaru.
+  This project will have several functions: 
+	- Scrape information from several sections of the statement and put data into seperate excel files to be uploaded into the general ledger
+	- Reconicle invoice numbers, invoice amounts, and group similiar entries together in order to reconicle the monthly payable account
+
+	I will be working on using object oriented programming as much as I can while I build this program. Not because it's necessary for a 
+  file this size, but just as practice for future, larger projects.
+
+	I don't have an expected timeframe for this program but if it is completed quickly, my next step will be to re-program all 11 of my 
+  current excel VBA macros into python, using object oriented program to increase effiency as much as possible.
+

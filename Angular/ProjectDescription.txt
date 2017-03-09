@@ -1,0 +1,1 @@
+My project is to learn and develop a Angular front end supported by a Java/JS backend for web applicaiton development.  On top of this goal I plan to host and monitor the ForceLazy Repo. while also providing learning lessons and instruction/support for others in their application development projects.
