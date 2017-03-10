@@ -6,12 +6,8 @@ This is a temporary script file.
 """
 
 import os
-import pandas
-import datetime
 import xlsxwriter
 import openpyxl
-import xlrd
-
 
 os.chdir(r'\Users\Ben\Documents\GitHub\Ben-Projects')
 
